@@ -3,7 +3,7 @@
   "released_at": "2026-05-09T10:00:00Z",
   "model_sha256": "...",
   "scaler_sha256": "...",
-  "model_url": "https://raw.githubusercontent.com/vinhkhangdao2004/Update_Motor-Health-Intelligence-System/master/motor_health_gnn_8bit.tflite",
+  "model_url": "https://raw.githubusercontent.com/vinhkhangdao2004/Update_Motor-Health-Intelligence-System/master/motor_health_gnn_robust.tflite",
   "scaler_url": "https://raw.githubusercontent.com/vinhkhangdao2004/Update_Motor-Health-Intelligence-System/master/scaler_gnn_robust.pkl",
   "changelog": "Initial release"
 }
