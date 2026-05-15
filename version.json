@@ -1,9 +1,6 @@
 {
-  "version": "3.0.0",
-  "released_at": "2026-05-09T10:00:00Z",
-  "model_sha256": "2bde250522aa0496c4b8c8222f7a194f8d017c7df91672d992bed7c776a06c16",
-  "scaler_sha256": "cbb10a04ce494ce56ed9c2d7ec269d97010c8e117dd6c4d90197879d3814b4a0",
-  "model_url": "https://raw.githubusercontent.com/vinhkhangdao2004/Update_Motor-Health-Intelligence-System/master/motor_health_gnn_robust.tflite",
-  "scaler_url": "https://raw.githubusercontent.com/vinhkhangdao2004/Update_Motor-Health-Intelligence-System/master/scaler_gnn_robust.pkl",
-  "changelog": "Initial release v1.0.0"
+  "version":      "3.0.0",
+  "model_url":    "https://raw.githubusercontent.com/vinhkhangdao2004/Update_Motor-Health-Intelligence-System/master/apex.tflite",
+  "model_sha256": "c798f589fae09f76ef2c63c693af8bd6088772c90d652cd74964148f82164bf8",
+  "changelog":    "Apex Fusion dual-sensor model"
 }
